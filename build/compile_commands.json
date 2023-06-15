@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/nn.dir/NetWork.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/NetWork.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/NetWork.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/nn.dir/Matrix.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/Matrix.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/Matrix.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/nn.dir/ActivateFunction.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/ActivateFunction.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/ActivateFunction.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/nn.dir/source.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/source.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/source.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/tests.dir/NetWork.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/NetWork.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/NetWork.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/tests.dir/Matrix.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/Matrix.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/Matrix.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/tests.dir/ActivateFunction.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/ActivateFunction.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/ActivateFunction.cpp"
+},
+{
+  "directory": "/Users/anne/Downloads/AIP_NORMAL/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++17 -o CMakeFiles/tests.dir/unittests.cpp.o -c /Users/anne/Downloads/AIP_NORMAL/unittests.cpp",
+  "file": "/Users/anne/Downloads/AIP_NORMAL/unittests.cpp"
+}
+]
