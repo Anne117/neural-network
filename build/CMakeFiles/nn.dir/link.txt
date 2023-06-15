@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/nn.dir/NetWork.cpp.o CMakeFiles/nn.dir/Matrix.cpp.o CMakeFiles/nn.dir/ActivateFunction.cpp.o CMakeFiles/nn.dir/source.cpp.o -o nn 
